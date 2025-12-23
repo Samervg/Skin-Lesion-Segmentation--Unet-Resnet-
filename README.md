@@ -17,4 +17,4 @@ This project is developed for the **Bluesense Smart Beauty** ecosystem. It uses 
 1. Open the notebook in Google Colab.
 2. Upload the `.pth` model file.
 3. Run the prediction cells to see the AI in action.
-4. 
+
